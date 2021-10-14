@@ -1,3 +1,2 @@
-config:
-  index: helloworld
-  version: 1.0
+index: helloworld
+version: 1.0
